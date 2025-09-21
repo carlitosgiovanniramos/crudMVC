@@ -74,7 +74,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local.
 5.  **(Opcional) Insertar datos de prueba:**
     ```sql
     INSERT INTO `estudiantes` (`cedula`, `nombre`, `apellido`, `direccion`, `telefono`) VALUES
-    ('1850596303', 'Carlos', 'Ramos Jacome', 'Baños de Agua Santa', '0967977374');
+    ('1850596303', 'Carlos', 'Ramos', 'Ecuador', '+593 0000000000');
     ```
 
 6.  **Configurar la conexión:**
